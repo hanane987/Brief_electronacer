@@ -4,4 +4,4 @@ Les utilisateurs, identifiés par leur adresse e-mail, mot de passe et login, ai
 
 Sur ce site, les utilisateurs auront accès à une page d'authentification permettant l'insertion des identifiants, les visiteurs pourront créer un compte utilisateur, et une page d'accueil affichera tous les produits en stock avec des fonctionnalités de pagination et de filtrage. Les administrateurs disposeront de pages dédiées pour gérer les produits, les catégories et les utilisateurs, avec des options pour ajouter, mettre à jour, masquer, valider ou supprimer des éléments selon les besoins.
 
-Ensemble, cette évolution vise à créer une expérience de gestion complète et intuitive pour tous les acteurs impliqués dans le processus.
+Ensemble, cette évolution vise à créer une expérience de gestion complète et intuitive pour tous les acteurs impliqués dans le processus..
